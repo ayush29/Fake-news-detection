@@ -1,4 +1,4 @@
-# Debunking-fake-news
+# Evidence based fake news detection
 Detecting fake news and false claims by predicting credibility/veracity and pointing to the evidence(external sources) to support the verdict which makes it transparent and interpretable. 
 
 Aim is to reduce efforts  in coming up with hand crafted features , better user modeling and trying deep learning architectures for this task.
