@@ -8,5 +8,5 @@ to get effiecient relevence ,context information of both claim text and article 
 • Efficient claim source and article source representations using ratings labels given by other sources
 • Use of Loung attention [3] on the above given representations.
 ## Model Architechture
-![alt-text](fakenews detection.PNG)
+![alt-text](fakenews detection.png)
 
