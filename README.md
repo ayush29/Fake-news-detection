@@ -8,8 +8,5 @@ to get effiecient relevence ,context information of both claim text and article 
 • Efficient claim source and article source representations using ratings labels given by other sources
 • Use of Loung attention [3] on the above given representations.
 ## Model Architechture
-![alt text-1](fakenews detection.PNG)
+![alt text](fakenews detection.PNG)
 
-## Results
-![alt text-2](results_snopes "Results on Snopes Dataset") ![alt text-3](newstrust_dataset "Results on Snopes Dataset") 
-![alt text-4](attention_importance "Claim specific Article Attention")
