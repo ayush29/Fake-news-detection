@@ -4,9 +4,9 @@ Internet and the web is a huge part of people’s day to day life in collecting 
 In this work we access the credibility of a claim by looking at different articles that are relevent to the claim .In order
 to get effiecient relevence ,context information of both claim text and article word are important.Using this context information of both claim and article words we produce a claim specific article representation that contains the weighted average of article words. where weights are assigned to the word representation based on thier contextual relevence with the whole claim text representation.In the following sections we list the works that relate to this paper and describe our proposed approach.The novelty of the paper lies in:
 * Efficient representation of claim source using Bi-LSTM using self attention instead of traditional word2vec or glove embeddings.
-* Efficient article word representation that constitute complex characteristics of word use (e.g., syntax and semantics), and (2) how these uses vary across linguistic contexts (i.e., to model polysemy). These word vectors are learned functions of the internal states of a deep bidirectional language model (Bi-LSTM)[5].
+* Efficient article word representation that constitute complex characteristics of word use (e.g., syntax and semantics), and (2) how these uses vary across linguistic contexts (i.e., to model polysemy). These word vectors are learned functions of the internal states of a deep bidirectional language model (Bi-LSTM)
 * Efficient claim source and article source representations using ratings labels given by other sources
-* Use of Loung attention [3] on the above given representations.
+* Use of Loung attention on the above given representations.
 
 ## Model Architechture
 ![image of architecture](architecture.PNG)
