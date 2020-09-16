@@ -9,5 +9,5 @@ to get effiecient relevence ,context information of both claim text and article 
 • Use of Loung attention [3] on the above given representations.
 
 ## Model Architechture
-![image of architecture](architecture.png)
+![image of architecture](architecture.PNG)
 
