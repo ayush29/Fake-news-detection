@@ -13,7 +13,7 @@ to get effiecient relevence ,context information of both claim text and article 
 
 ## Results
 
-![alt-text-1](results_snopes.PNG "Resutls on Snopes dataset") ![alt-text-2](newstrust_dataset.PNG "Results on NewsTrust datset")
-
+![alt-text-1](results_snopes.PNG "Resutls on Snopes dataset") 
+![alt-text-2](newstrust_dataset.PNG "Results on NewsTrust datset")
 ![Attention](attention_importance.PNG "Visualization of Self Attention Weights")
 
