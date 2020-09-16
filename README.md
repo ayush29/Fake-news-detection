@@ -7,6 +7,7 @@ to get effiecient relevence ,context information of both claim text and article 
 • Efficient article word representation that constitute complex characteristics of word use (e.g., syntax and semantics), and (2) how these uses vary across linguistic contexts (i.e., to model polysemy). These word vectors are learned functions of the internal states of a deep bidirectional language model (Bi-LSTM)[5].
 • Efficient claim source and article source representations using ratings labels given by other sources
 • Use of Loung attention [3] on the above given representations.
+
 ## Model Architechture
-![alt-text](architecture.png)
+![image of architecture](architecture.png)
 
